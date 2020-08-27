@@ -2,7 +2,7 @@ class TestaFilme {
 
   public void mostra(){
 
-      Filme filme = new Filme();
+      Filme filme = new Filme(); 
       filme.setTitulo("Homen de Ferro");
       filme.setAno(2015);
       filme.setTipo(2);
